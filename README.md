@@ -15,4 +15,3 @@ TabBar widget to display the page of the selected tab. Users can swipe left or r
 or tap each Tab. The TabController class handled the syncing of the TabBar and selected TabBarView. The TabController requires the use of with SingleTickerProviderStateMixin in the class.
 
 
-![6907d237-dc28-4ee3-8055-f9fb26b33d3a](https://github.com/user-attachments/assets/a6109925-f75b-4720-a926-0832139c2a7f)
